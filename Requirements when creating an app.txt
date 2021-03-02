@@ -1,0 +1,12 @@
+Questions you should ask before starting to code an app:
+1. What will your program do?
+    ex: show a list of current records.
+        show a current entry in a database.
+        add entry.
+        update or delete entry.
+        close the window
+2. Decide if you want to write the frontend or back end first.
+
+3. If you decide on frontend first: Think of possible button arrangements and association with the previous mentioned requirements.
+3. If you decide on backend first: Start thinking how will your program do the requirements.
+    ex: write a function that returns all the data from the database.
