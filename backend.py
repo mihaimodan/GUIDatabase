@@ -66,9 +66,4 @@ def update(id, title, author, year, isbn):
     conn.close()
 
 
-# TODO Function for the 'Close' button.
-# def close(self):
-#     return self.quit()
-
-
 create()
